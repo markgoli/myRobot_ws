@@ -1,0 +1,8 @@
+ -------< Commands To Launch the Robot >----------
+
+1. roslaunch myworld robot_world.launch -- launch my world.
+2. roslaunch my_two_wheel_robot spawn.launch -- spawn my robot into the gazebo workspace.
+3. rosrun robot_motion obstacle_avoidance.py --- start the algorithm for obstacle avoidance.
+
+
+
