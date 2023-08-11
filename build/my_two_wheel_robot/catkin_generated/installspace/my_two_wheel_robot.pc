@@ -1,0 +1,8 @@
+prefix=/home/wgmark/myRobot_ws/install
+
+Name: my_two_wheel_robot
+Description: Description of my_two_wheel_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

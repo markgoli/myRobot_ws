@@ -1,0 +1,2 @@
+my_two_wheel_robot:myworld:robot_motion
+-DCATKIN_DEVEL_PREFIX=/home/wgmark/myRobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wgmark/myRobot_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/wgmark/myRobot_ws/devel
+
+Name: myworld
+Description: Description of myworld
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

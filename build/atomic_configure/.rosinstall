@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wgmark/myRobot_ws/devel/setup.sh
